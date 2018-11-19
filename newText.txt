@@ -6,3 +6,7 @@ the second one
 	developpeur add text
 
 master change text
+
+	developpeur add second text - not good
+
+	developpeur add third text - good to commit
