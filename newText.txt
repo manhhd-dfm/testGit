@@ -10,3 +10,6 @@ master change text
 	developpeur add second text - not good
 
 	developpeur add third text - good to commit
+
+
+	developpeur commit second one - text good
